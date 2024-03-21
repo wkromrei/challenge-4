@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+ 
+  
+  body {
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 8px;
+    height: 50vh;
+    border: 20px solid purple;
+    background-color: yellow;
+  }

@@ -1,0 +1,40 @@
+body {
+    background-color: yellow;
+}
+
+header {
+    font-family: 'Courier New';
+    justify-content: left;
+    align-items: left;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 8px;
+    height: 10vh;
+    border: 20px solid purple;
+
+
+}
+
+div {
+    font-family: Arial;
+    justify-content: left;
+    align-items: left;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 8px;
+    height: 20vh;
+    border: 20px solid purple;
+}
+
+#myGitContainer {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+}
+
+#myGit {
+    padding: 10px 20px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
