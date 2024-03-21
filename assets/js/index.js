@@ -32,17 +32,6 @@ submitButton.addEventListener('click', function(event) {
   }
 }); 
 
-// submitButton.addEventListener('click', function (event) {
-//   event.preventDefault ();
-// if (username.value.trim() == '' || title.value.trim() == '' || content.value.trim() == '') {
-//     alert("Please Enter Valid Inputs.")
-// } else {
-//   submitButton.addEventListener('click', function(event){
-//     createBlog (event)
-//     location.pathname='./blog.html'
- 
-
-
 
 
 
