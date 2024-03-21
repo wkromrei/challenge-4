@@ -36,5 +36,5 @@ changeLightEl.addEventListener('click', function() {
     }
 });
 backButtonEl.addEventListener('click', function() {
-    location.pathname='./index.html'
+    window.location.href = 'https://wkromrei.github.io/challenge-4/index.html';
 })

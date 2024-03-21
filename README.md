@@ -3,7 +3,7 @@ This is a webpage that takes inputs on one page and renders blog entries on a se
 
 ## Installation
 url: 
-https://wkromrei.github.io/My-Portfolio/
+
 
 ## Usage
 
