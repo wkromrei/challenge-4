@@ -28,7 +28,7 @@ submitButton.addEventListener('click', function(event) {
       alert("Please Enter Valid Inputs.");
   } else {
       createBlog(event); 
-      window.location.href = 'https://wkromrei.github.io/challenge-4/blog.html';
+      window.location.href = 'https://wkromrei.github.io/blog.html';
   }
 }); 
 
